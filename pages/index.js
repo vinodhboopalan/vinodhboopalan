@@ -8,7 +8,7 @@ export default function Index() {
       <Link href="/about">
         <a> About </a>
       </Link>
-      <Link href="/some.pdf">
+      <Link href="/files/some.pdf">
         <a> Some PDF </a>
       </Link>
     </div>
