@@ -4,9 +4,12 @@ import Link from "next/link";
 export default function Index() {
   return (
     <div>
-      <h1> Vinodh Boopalan </h1>
+      <h1> Vinodh Boopalan's Blog </h1>
       <Link href="/about">
         <a> About </a>
+      </Link>
+      <Link href="/some.pdf">
+        <a> Some PDF </a>
       </Link>
     </div>
   );
